@@ -17,14 +17,12 @@
 
 ###### React Router
 - `react-router-dom`
-- `react-router-redux`
-- `history`
 
 ###### Redux
 - `redux`
 - `react-redux`
-- `redux-logger`
 - `redux-thunk`
+- `redux-logger`
 
 ###### Stylus
 - `stylus`
