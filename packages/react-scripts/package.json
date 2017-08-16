@@ -23,6 +23,9 @@
     "template",
     "utils"
   ],
+  "eslintConfig": {
+    "extends": "react-app"
+  },
   "bin": {
     "react-scripts": "./bin/react-scripts.js"
   },
